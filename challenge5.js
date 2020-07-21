@@ -7,5 +7,5 @@ while(true){
   else{
     number++;
   }
-  
+
 }
